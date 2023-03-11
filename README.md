@@ -1,4 +1,5 @@
 # SMRTXE_Project
+
 Here is my main project folder where I work on new functions and test existing code. Contains graphics and ST7586 library (the graphics library modified to be used with the ST7586 and it's lack to read the display memory back).
 Also, I've just added functions to use the keyboard and memory IC.
 
@@ -24,3 +25,5 @@ All required pins, ports and direction registers are defined here.
 --- main.c
 Demo-program that shows a few functions. 
 
+## Repository archived
+I'm not actively working on thos repository anymore as I lost interest in the little device. I consider this repository feature-complete, having all the drivers for the peripherals on the device, so it should be a good starting point for anyone eager to get into that device.
